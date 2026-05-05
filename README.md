@@ -1,7 +1,7 @@
 # Winnow-Solutions---Software-Test-Engineer-Internship
 
 
-1. Design Description (Documentația)
+1. Design Description 
 Arhitectura Sistemului
 Sistemul este conceput ca un microserviciu REST API.
 •	Interfață: HTTP API (ușor de integrat în orice Test Runner: PyTest, Selenium, Postman).
@@ -16,7 +16,9 @@ API Design
 Suport pentru Testare Automatizată
 Design-ul permite sincronizarea: testul automat trimite comanda de play, așteaptă răspunsul 200 OK, apoi interoghează sistemul Winnow Vision pentru a vedea dacă a detectat corect obiectul din video.
 
-3. Instrucțiuni de rulare (README.md)
+
+
+3. Instrucțiuni de rulare 
 Cum rulezi prototipul:
 1.	Instalează Python 3.x.
 2.	Instalează dependențele: pip install flask.

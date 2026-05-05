@@ -33,3 +33,6 @@ Limitări și îmbunătățiri viitoare:
 •	Îmbunătățire: -Adăugarea unui log de evenimente pentru a corela exact ora la care a pornit clipul cu log-urile din Winnow Vision.
 -Folosirea unei librării native (ex: python-vlc) pentru un control mai fin asupra frame-urilor (pauză, seek la un anumit timestamp).
 -O interfață web simplă pentru declanșare manuală în timpul debugging-ului.
+
+
+Serverul pornește implicit pe portul 5000
